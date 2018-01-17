@@ -14,5 +14,4 @@ function countLetters(sentence) {
  return letterCounts;
 }
 
-console.log(countLetters('hou  seh'));
-console.log(countLetters('househ'));
+console.log(countLetters('lighthouse in the house'));
